@@ -1,10 +1,8 @@
 _repo: A-Residence-in-France-During-the-Years-1792-1793-1794-and-1795-Part-IV.-1795and-Incidental-Re__11995
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 11995/11995-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 11995-h/images/cover.jpg
 creator:
   author:
     agent_name: Biggs, Charlotte
@@ -25,6 +23,8 @@ creator:
     gutenberg_agent_id: '4163'
     url: http://www.gutenberg.org/2009/agents/4163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11995#A-Residence-in-France-During-the-Years-1792-1793-1794-and-1795-Part-IV.-1795and-Incidental-Re_
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
